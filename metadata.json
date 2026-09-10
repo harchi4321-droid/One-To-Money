@@ -1,0 +1,6 @@
+{
+  "name": "1 To Many",
+  "description": "Multi-user social media cross-broadcaster to post simultaneously across Facebook, YouTube, TikTok, and Instagram with secure online database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
